@@ -1,0 +1,89 @@
+{
+  "uid" : "c7c64d87a62b1346",
+  "name" : "test_saveorder[{\n \"address\": {\n  \"original\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n  \"phone\": \"\",\n  \"mobile\": \"13199999999\",\n  \"name\": \"欣欣\",\n  \"note\": \"\",\n  \"province_id\": \"5591\",\n  \"province_name\": \"湖北省\",\n  \"province_shortname\": \"湖北\",\n  \"province_code\": \"420000\",\n  \"city_id\": \"7153\",\n  \"city_name\": \"随州市\",\n  \"city_shortname\": \"随州\",\n  \"city_code\": \"421300\",\n  \"county_id\": \"8330\",\n  \"county_name\": \"广水市\",\n  \"county_shortname\": \"广水\",\n  \"county_code\": \"421381\",\n  \"detail\": \"实验小学\"\n },\n \"payType\": \"已付全款\",\n \"prepayPrice\": 0,\n \"depositPrice\": 0,\n \"totalPrice\": 1000000,\n \"price\": 1000000,\n \"payment\": \"聚合码支付\",\n \"account\": 183,\n \"uid\": 1000205,\n \"users\": [{\n  \"uid\": 1000205,\n  \"sales_name\": \"数据\"\n }, {\n  \"uid\": 1000194,\n  \"sales_name\": \"复购三号\"\n }, {\n  \"uid\": 1000181,\n  \"sales_name\": \"销售测试\"\n }, {\n  \"uid\": 1000177,\n  \"sales_name\": \"李洁销售\"\n }, {\n  \"uid\": 4372,\n  \"sales_name\": \"李洁\"\n }, {\n  \"uid\": 1000160,\n  \"sales_name\": \"tatan\"\n }, {\n  \"uid\": 399,\n  \"sales_name\": \"冯维娜\"\n }, {\n  \"uid\": 357,\n  \"sales_name\": \"张雯娜\"\n }],\n \"customerType\": \"\",\n \"inputAddress\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n \"remark\": \"\",\n \"sellerRemark\": \"\",\n \"orderDate\": \"2021-10-21\",\n \"deliveryDate\": null,\n \"screenshot\": [\"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/f847b517ddf2d39db1aa3e9e14408af5.jpeg\"],\n \"screenshotExt\": \"jpeg\",\n \"uploadId\": \"1367289\",\n \"img\": [],\n \"joinDate\": \"2021-07-30T16:00:00.000Z\",\n \"inputJoinDate\": \"2021-07-31\",\n \"from_record_id\": 0,\n \"parsingAddress\": false,\n \"crmUid\": 85606,\n \"csType\": \"\",\n \"mode\": \"default\",\n \"recievedPrice\": 1000000,\n \"source\": \"微信个号\",\n \"recievedPriceRemark\": \"\",\n \"award\": 0,\n \"canModifyPrice\": true,\n \"liveOrderNo\": \"\",\n \"is_use_balance_payment\": \"否\",\n \"balance_payment\": 0,\n \"items\": [{\n  \"number\": 1,\n  \"good\": {\n   \"good_id\": 194979,\n   \"shop_id\": 3,\n   \"parent_good_id\": 0,\n   \"title\": \"自动化测试专用包\",\n   \"brand\": \"\",\n   \"spec\": \"\",\n   \"props\": {\n    \"尺码\": \"小号\",\n    \"颜色\": \"黑色\"\n   },\n   \"no\": \"555551\",\n   \"price\": 1000000,\n   \"cost_price\": 300000,\n   \"virtual_stock\": 99997,\n   \"make_stock\": 99999,\n   \"upload_id\": 0,\n   \"picture\": \"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/99e91aa7ca3b4a7345623640d73c8ff3.png\",\n   \"week\": 4,\n   \"rank\": 0,\n   \"product_id\": 76681,\n   \"sync_erp_stock\": 1,\n   \"is_combine_good\": 0,\n   \"create_datetime\": \"2021-10-21 18:43:46\",\n   \"update_datetime\": \"2021-10-21 18:43:46\",\n   \"status\": \"已上架\",\n   \"is_share_good\": false,\n   \"supplier\": {\n    \"supplier_id\": 1756,\n    \"name\": \"水墨佳人\",\n    \"code\": \"TSM\",\n    \"uid\": 0,\n    \"shop_id\": 3,\n    \"status\": \"正常\"\n   }\n  },\n  \"price\": 1000000,\n  \"good_id\": 194979\n }],\n \"depositIds\": []\n}]",
+  "fullName" : "testcases.test_order.TestOrder#test_saveorder[{\n \"address\": {\n  \"original\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n  \"phone\": \"\",\n  \"mobile\": \"13199999999\",\n  \"name\": \"欣欣\",\n  \"note\": \"\",\n  \"province_id\": \"5591\",\n  \"province_name\": \"湖北省\",\n  \"province_shortname\": \"湖北\",\n  \"province_code\": \"420000\",\n  \"city_id\": \"7153\",\n  \"city_name\": \"随州市\",\n  \"city_shortname\": \"随州\",\n  \"city_code\": \"421300\",\n  \"county_id\": \"8330\",\n  \"county_name\": \"广水市\",\n  \"county_shortname\": \"广水\",\n  \"county_code\": \"421381\",\n  \"detail\": \"实验小学\"\n },\n \"payType\": \"已付全款\",\n \"prepayPrice\": 0,\n \"depositPrice\": 0,\n \"totalPrice\": 1000000,\n \"price\": 1000000,\n \"payment\": \"聚合码支付\",\n \"account\": 183,\n \"uid\": 1000205,\n \"users\": [{\n  \"uid\": 1000205,\n  \"sales_name\": \"数据\"\n }, {\n  \"uid\": 1000194,\n  \"sales_name\": \"复购三号\"\n }, {\n  \"uid\": 1000181,\n  \"sales_name\": \"销售测试\"\n }, {\n  \"uid\": 1000177,\n  \"sales_name\": \"李洁销售\"\n }, {\n  \"uid\": 4372,\n  \"sales_name\": \"李洁\"\n }, {\n  \"uid\": 1000160,\n  \"sales_name\": \"tatan\"\n }, {\n  \"uid\": 399,\n  \"sales_name\": \"冯维娜\"\n }, {\n  \"uid\": 357,\n  \"sales_name\": \"张雯娜\"\n }],\n \"customerType\": \"\",\n \"inputAddress\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n \"remark\": \"\",\n \"sellerRemark\": \"\",\n \"orderDate\": \"2021-10-21\",\n \"deliveryDate\": null,\n \"screenshot\": [\"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/f847b517ddf2d39db1aa3e9e14408af5.jpeg\"],\n \"screenshotExt\": \"jpeg\",\n \"uploadId\": \"1367289\",\n \"img\": [],\n \"joinDate\": \"2021-07-30T16:00:00.000Z\",\n \"inputJoinDate\": \"2021-07-31\",\n \"from_record_id\": 0,\n \"parsingAddress\": false,\n \"crmUid\": 85606,\n \"csType\": \"\",\n \"mode\": \"default\",\n \"recievedPrice\": 1000000,\n \"source\": \"微信个号\",\n \"recievedPriceRemark\": \"\",\n \"award\": 0,\n \"canModifyPrice\": true,\n \"liveOrderNo\": \"\",\n \"is_use_balance_payment\": \"否\",\n \"balance_payment\": 0,\n \"items\": [{\n  \"number\": 1,\n  \"good\": {\n   \"good_id\": 194979,\n   \"shop_id\": 3,\n   \"parent_good_id\": 0,\n   \"title\": \"自动化测试专用包\",\n   \"brand\": \"\",\n   \"spec\": \"\",\n   \"props\": {\n    \"尺码\": \"小号\",\n    \"颜色\": \"黑色\"\n   },\n   \"no\": \"555551\",\n   \"price\": 1000000,\n   \"cost_price\": 300000,\n   \"virtual_stock\": 99997,\n   \"make_stock\": 99999,\n   \"upload_id\": 0,\n   \"picture\": \"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/99e91aa7ca3b4a7345623640d73c8ff3.png\",\n   \"week\": 4,\n   \"rank\": 0,\n   \"product_id\": 76681,\n   \"sync_erp_stock\": 1,\n   \"is_combine_good\": 0,\n   \"create_datetime\": \"2021-10-21 18:43:46\",\n   \"update_datetime\": \"2021-10-21 18:43:46\",\n   \"status\": \"已上架\",\n   \"is_share_good\": false,\n   \"supplier\": {\n    \"supplier_id\": 1756,\n    \"name\": \"水墨佳人\",\n    \"code\": \"TSM\",\n    \"uid\": 0,\n    \"shop_id\": 3,\n    \"status\": \"正常\"\n   }\n  },\n  \"price\": 1000000,\n  \"good_id\": 194979\n }],\n \"depositIds\": ",
+  "historyId" : "1e025c509764f557717e8a6b53ac1638",
+  "time" : {
+    "start" : 1635237816571,
+    "stop" : 1635237816971,
+    "duration" : 400
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fdb00ed4215ddb36",
+      "name" : "log",
+      "source" : "fdb00ed4215ddb36.txt",
+      "type" : "text/plain",
+      "size" : 257
+    }, {
+      "uid" : "b4e794c23a4ef47e",
+      "name" : "stdout",
+      "source" : "b4e794c23a4ef47e.txt",
+      "type" : "text/plain",
+      "size" : 53
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestOrder"
+  }, {
+    "name" : "host",
+    "value" : "macdeAir.lan"
+  }, {
+    "name" : "thread",
+    "value" : "33559-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "'{\n \"address\": {\n  \"original\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n  \"phone\": \"\",\n  \"mobile\": \"13199999999\",\n  \"name\": \"欣欣\",\n  \"note\": \"\",\n  \"province_id\": \"5591\",\n  \"province_name\": \"湖北省\",\n  \"province_shortname\": \"湖北\",\n  \"province_code\": \"420000\",\n  \"city_id\": \"7153\",\n  \"city_name\": \"随州市\",\n  \"city_shortname\": \"随州\",\n  \"city_code\": \"421300\",\n  \"county_id\": \"8330\",\n  \"county_name\": \"广水市\",\n  \"county_shortname\": \"广水\",\n  \"county_code\": \"421381\",\n  \"detail\": \"实验小学\"\n },\n \"payType\": \"已付全款\",\n \"prepayPrice\": 0,\n \"depositPrice\": 0,\n \"totalPrice\": 1000000,\n \"price\": 1000000,\n \"payment\": \"聚合码支付\",\n \"account\": 183,\n \"uid\": 1000205,\n \"users\": [{\n  \"uid\": 1000205,\n  \"sales_name\": \"数据\"\n }, {\n  \"uid\": 1000194,\n  \"sales_name\": \"复购三号\"\n }, {\n  \"uid\": 1000181,\n  \"sales_name\": \"销售测试\"\n }, {\n  \"uid\": 1000177,\n  \"sales_name\": \"李洁销售\"\n }, {\n  \"uid\": 4372,\n  \"sales_name\": \"李洁\"\n }, {\n  \"uid\": 1000160,\n  \"sales_name\": \"tatan\"\n }, {\n  \"uid\": 399,\n  \"sales_name\": \"冯维娜\"\n }, {\n  \"uid\": 357,\n  \"sales_name\": \"张雯娜\"\n }],\n \"customerType\": \"\",\n \"inputAddress\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n \"remark\": \"\",\n \"sellerRemark\": \"\",\n \"orderDate\": \"2021-10-21\",\n \"deliveryDate\": null,\n \"screenshot\": [\"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/f847b517ddf2d39db1aa3e9e14408af5.jpeg\"],\n \"screenshotExt\": \"jpeg\",\n \"uploadId\": \"1367289\",\n \"img\": [],\n \"joinDate\": \"2021-07-30T16:00:00.000Z\",\n \"inputJoinDate\": \"2021-07-31\",\n \"from_record_id\": 0,\n \"parsingAddress\": false,\n \"crmUid\": 85606,\n \"csType\": \"\",\n \"mode\": \"default\",\n \"recievedPrice\": 1000000,\n \"source\": \"微信个号\",\n \"recievedPriceRemark\": \"\",\n \"award\": 0,\n \"canModifyPrice\": true,\n \"liveOrderNo\": \"\",\n \"is_use_balance_payment\": \"否\",\n \"balance_payment\": 0,\n \"items\": [{\n  \"number\": 1,\n  \"good\": {\n   \"good_id\": 194979,\n   \"shop_id\": 3,\n   \"parent_good_id\": 0,\n   \"title\": \"自动化测试专用包\",\n   \"brand\": \"\",\n   \"spec\": \"\",\n   \"props\": {\n    \"尺码\": \"小号\",\n    \"颜色\": \"黑色\"\n   },\n   \"no\": \"555551\",\n   \"price\": 1000000,\n   \"cost_price\": 300000,\n   \"virtual_stock\": 99997,\n   \"make_stock\": 99999,\n   \"upload_id\": 0,\n   \"picture\": \"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/99e91aa7ca3b4a7345623640d73c8ff3.png\",\n   \"week\": 4,\n   \"rank\": 0,\n   \"product_id\": 76681,\n   \"sync_erp_stock\": 1,\n   \"is_combine_good\": 0,\n   \"create_datetime\": \"2021-10-21 18:43:46\",\n   \"update_datetime\": \"2021-10-21 18:43:46\",\n   \"status\": \"已上架\",\n   \"is_share_good\": false,\n   \"supplier\": {\n    \"supplier_id\": 1756,\n    \"name\": \"水墨佳人\",\n    \"code\": \"TSM\",\n    \"uid\": 0,\n    \"shop_id\": 3,\n    \"status\": \"正常\"\n   }\n  },\n  \"price\": 1000000,\n  \"good_id\": 194979\n }],\n \"depositIds\": []\n}'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3d660783756fc016",
+      "status" : "passed",
+      "time" : {
+        "start" : 1635234854352,
+        "stop" : 1635234854770,
+        "duration" : 418
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7c64d87a62b1346.json",
+  "parameterValues" : [ "'{\n \"address\": {\n  \"original\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n  \"phone\": \"\",\n  \"mobile\": \"13199999999\",\n  \"name\": \"欣欣\",\n  \"note\": \"\",\n  \"province_id\": \"5591\",\n  \"province_name\": \"湖北省\",\n  \"province_shortname\": \"湖北\",\n  \"province_code\": \"420000\",\n  \"city_id\": \"7153\",\n  \"city_name\": \"随州市\",\n  \"city_shortname\": \"随州\",\n  \"city_code\": \"421300\",\n  \"county_id\": \"8330\",\n  \"county_name\": \"广水市\",\n  \"county_shortname\": \"广水\",\n  \"county_code\": \"421381\",\n  \"detail\": \"实验小学\"\n },\n \"payType\": \"已付全款\",\n \"prepayPrice\": 0,\n \"depositPrice\": 0,\n \"totalPrice\": 1000000,\n \"price\": 1000000,\n \"payment\": \"聚合码支付\",\n \"account\": 183,\n \"uid\": 1000205,\n \"users\": [{\n  \"uid\": 1000205,\n  \"sales_name\": \"数据\"\n }, {\n  \"uid\": 1000194,\n  \"sales_name\": \"复购三号\"\n }, {\n  \"uid\": 1000181,\n  \"sales_name\": \"销售测试\"\n }, {\n  \"uid\": 1000177,\n  \"sales_name\": \"李洁销售\"\n }, {\n  \"uid\": 4372,\n  \"sales_name\": \"李洁\"\n }, {\n  \"uid\": 1000160,\n  \"sales_name\": \"tatan\"\n }, {\n  \"uid\": 399,\n  \"sales_name\": \"冯维娜\"\n }, {\n  \"uid\": 357,\n  \"sales_name\": \"张雯娜\"\n }],\n \"customerType\": \"\",\n \"inputAddress\": \"湖北省随州市广水市实验小学 欣欣 13199999999\",\n \"remark\": \"\",\n \"sellerRemark\": \"\",\n \"orderDate\": \"2021-10-21\",\n \"deliveryDate\": null,\n \"screenshot\": [\"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/f847b517ddf2d39db1aa3e9e14408af5.jpeg\"],\n \"screenshotExt\": \"jpeg\",\n \"uploadId\": \"1367289\",\n \"img\": [],\n \"joinDate\": \"2021-07-30T16:00:00.000Z\",\n \"inputJoinDate\": \"2021-07-31\",\n \"from_record_id\": 0,\n \"parsingAddress\": false,\n \"crmUid\": 85606,\n \"csType\": \"\",\n \"mode\": \"default\",\n \"recievedPrice\": 1000000,\n \"source\": \"微信个号\",\n \"recievedPriceRemark\": \"\",\n \"award\": 0,\n \"canModifyPrice\": true,\n \"liveOrderNo\": \"\",\n \"is_use_balance_payment\": \"否\",\n \"balance_payment\": 0,\n \"items\": [{\n  \"number\": 1,\n  \"good\": {\n   \"good_id\": 194979,\n   \"shop_id\": 3,\n   \"parent_good_id\": 0,\n   \"title\": \"自动化测试专用包\",\n   \"brand\": \"\",\n   \"spec\": \"\",\n   \"props\": {\n    \"尺码\": \"小号\",\n    \"颜色\": \"黑色\"\n   },\n   \"no\": \"555551\",\n   \"price\": 1000000,\n   \"cost_price\": 300000,\n   \"virtual_stock\": 99997,\n   \"make_stock\": 99999,\n   \"upload_id\": 0,\n   \"picture\": \"https://box3-1257113934.image.myqcloud.com/upload/3/1000171/99e91aa7ca3b4a7345623640d73c8ff3.png\",\n   \"week\": 4,\n   \"rank\": 0,\n   \"product_id\": 76681,\n   \"sync_erp_stock\": 1,\n   \"is_combine_good\": 0,\n   \"create_datetime\": \"2021-10-21 18:43:46\",\n   \"update_datetime\": \"2021-10-21 18:43:46\",\n   \"status\": \"已上架\",\n   \"is_share_good\": false,\n   \"supplier\": {\n    \"supplier_id\": 1756,\n    \"name\": \"水墨佳人\",\n    \"code\": \"TSM\",\n    \"uid\": 0,\n    \"shop_id\": 3,\n    \"status\": \"正常\"\n   }\n  },\n  \"price\": 1000000,\n  \"good_id\": 194979\n }],\n \"depositIds\": []\n}'" ]
+}

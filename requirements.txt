@@ -1,0 +1,10 @@
+pytest==6.2.4
+PyMySQL==0.9.3
+allure-pytest==2.7.0
+requests==2.20.0
+PyYAML==5.3.1
+paramiko==2.7.2
+sshtunnel==0.4.0
+xlrd==1.2.0
+requests_toolbelt==0.9.1
+certifi==2021.10.8
